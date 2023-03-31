@@ -23,7 +23,7 @@ print("Заменить Лондон на Москву:", stroka.replace("Лон
 print("Создать список и обьединить его в строку:",' '.join(stroka.split()))
 print("Удалить начало строки:", stroka.lstrip("Не знаю, как там в Лондоне, я не была. "))
 
-#Print the original string to the console
+#Print the original string to the console.
 print(stroka)
 
 # Expand offer. Я Денис -> Денис Я
