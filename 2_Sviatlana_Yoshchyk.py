@@ -32,3 +32,5 @@ list=stroka.split()
 list.reverse()
 print(' '.join(list))
 
+#Print the original string to the console
+print(stroka)
